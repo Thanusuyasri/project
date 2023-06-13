@@ -1,0 +1,18 @@
+dbo.collection("flight").updateOne({ flightnumber: flightnumber },{ $inc: { setavailable: Number(1) } } )
+                            .then(
+                                function(){
+                                    var q={name:name,Age:age,airlinename:airlinename,date:spdate,source:source,destination:destination,setavailable:0,flightnumber:flightnumber}
+                                    dbo.collection("flight").insertOne(q)
+                                    .then(
+                                        function(){
+                                            res.send("<h2>booked successfuly</h2>")
+                                        }
+                                    )
+                                    .catch(function(error){
+                                        console.log(error)
+                                    })
+                                }
+                            )
+                            .catch(function(error){
+                                console.log(error)
+                            })

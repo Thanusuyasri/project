@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "64840416d97d26fcc1ba1e7f"
+  },
+  "airlinename": "Emirates",
+  "date": {
+    "$date": "2023-06-16T09:30:00.000Z"
+  },
+  "source": "Delhi",
+  "destination": "Kolkate",
+  "setavailable": 60,
+  "flightnumber": "DK1023"
+},{
+  "_id": {
+    "$oid": "64841f06001eacb3f79eb80f"
+  },
+  "airlinename": "Southwest Airlines",
+  "date": {
+    "$date": "2023-09-15T18:00:00.000Z"
+  },
+  "source": "Pune",
+  "destination": "Hyderabad",
+  "setavailable": 56,
+  "flightnumber": "PH2324"
+},{
+  "_id": {
+    "$oid": "64853904ef10626eac025bbb"
+  },
+  "airlinename": "Delta",
+  "date": {
+    "$date": "2023-09-15T18:00:00.000Z"
+  },
+  "source": "Kochi",
+  "destination": "Agra",
+  "setavailable": 59,
+  "flightnumber": "KA1007"
+},{
+  "_id": {
+    "$oid": "64883fc9d51b0deb5311a7b5"
+  },
+  "airlinename": "British Airways",
+  "date": {
+    "$date": "2023-06-07T15:00:00.000Z"
+  },
+  "source": "Heathrow",
+  "destination": "Rosario",
+  "setavailable": 59,
+  "flightnumber": "HR0715"
+}]

@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "648803b479e2f30fca60a2ed"
+  },
+  "usreid": "bhuvanesh",
+  "name": "Raja",
+  "Age": "20",
+  "airlinename": "Southwest Airlines",
+  "date": {
+    "$date": "2023-09-15T18:00:00.000Z"
+  },
+  "source": "Pune",
+  "destination": "Hyderabad",
+  "flightnumber": "PH2324"
+},{
+  "_id": {
+    "$oid": "64881236c0a723141ac474a5"
+  },
+  "usreid": "bhuvanesh",
+  "name": "Raja",
+  "Age": "25",
+  "airlinename": "Southwest Airlines",
+  "date": {
+    "$date": "2023-09-15T18:00:00.000Z"
+  },
+  "source": "Pune",
+  "destination": "Hyderabad",
+  "flightnumber": "PH2324"
+},{
+  "_id": {
+    "$oid": "64881faf33c29ea8b2cc559b"
+  },
+  "usreid": "bhuvanesh",
+  "name": "Rani",
+  "Age": "25",
+  "airlinename": "Southwest Airlines",
+  "date": {
+    "$date": "2023-09-15T18:00:00.000Z"
+  },
+  "source": "Pune",
+  "destination": "Hyderabad",
+  "flightnumber": "PH2324"
+},{
+  "_id": {
+    "$oid": "6488405dd51b0deb5311a7b6"
+  },
+  "usreid": "Varshaa",
+  "name": "Shruthi",
+  "Age": "19",
+  "airlinename": "British Airways",
+  "date": {
+    "$date": "2023-06-07T15:00:00.000Z"
+  },
+  "source": "Heathrow",
+  "destination": "Rosario",
+  "flightnumber": "HR0715"
+},{
+  "_id": {
+    "$oid": "6488541a99ee232c89a3cebb"
+  },
+  "usreid": "thanu",
+  "name": "thanu",
+  "Age": "19",
+  "airlinename": "Southwest Airlines",
+  "date": {
+    "$date": "2023-09-15T18:00:00.000Z"
+  },
+  "source": "Pune",
+  "destination": "Hyderabad",
+  "flightnumber": "PH2324"
+},{
+  "_id": {
+    "$oid": "6488573899ee232c89a3cebc"
+  },
+  "usreid": "thanu",
+  "name": "Shalini",
+  "Age": "20",
+  "airlinename": "Delta",
+  "date": {
+    "$date": "2023-09-15T18:00:00.000Z"
+  },
+  "source": "Kochi",
+  "destination": "Agra",
+  "flightnumber": "KA1007"
+}]
